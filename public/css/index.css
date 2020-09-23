@@ -1,0 +1,29 @@
+body{color:#f2f2f2;}
+
+.header-wrapper {width : 100%; height : 120px; background-color: #111;}
+
+.top-wrap {width : 60%; height : 40px; margin : 0 auto; line-height: 40px; border-bottom: 1px solid #777;}
+
+.top-wrap p{float: left; font-size: 14px; color: #999}
+
+.top-wrap p.right{float: right;}
+
+.top-wrap i.first{margin-left : 40px;}
+
+.top-wrap i{float: left; margin-left : 35px; font-size: 14px; line-height:40px;}
+
+.top-navi{width:60%; height: 80px; margin:0 auto;}
+
+.top-navi > h2{float: left; line-height: 80px; font-size: 14px; font-weight: bolder; margin-right: 82px;}
+
+.top-navi .tn-right h2{float: right; line-height:80px; font-size: 14px; font-weight: bolder; margin-left: 82px;}
+
+.main-visual {position: relative;}
+
+.main-visual h1 {position: absolute; top: 240px; left: 500px; font-size: 80px; font-weight: bolder;}
+
+.bottom-wrap {width :100%; height:139px; background-color: #222;}
+
+.bottom-wrap .bottom-logo {width :70%; height:139px; margin: 0 auto; border : 1px solid #f1f1f1;}
+
+.bottom-wrap .bottom-logo img {}
