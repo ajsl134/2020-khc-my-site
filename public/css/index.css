@@ -24,4 +24,8 @@ body { color: #f3f3f3; }
 
 .page-wrapper .page-text .page-navi-bottom .bottom-right h1 { font-size: 16px; float : right; font-weight: bolder; line-height: 80px; margin-left: 75px;}
 
-.page-wrapper .page-logo {position: absolute; top: 0;left: 720px; line-height: 120px;}
+.page-center {}
+
+
+
+.page-bottom { width: 100%; height : 150px; background-color: #19161a;}
